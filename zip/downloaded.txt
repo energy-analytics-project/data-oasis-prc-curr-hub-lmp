@@ -2425,3 +2425,5 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdateti
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=20190822T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=20190823T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=20190824T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=20190825T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=20190826T07:00-0000&version=1
