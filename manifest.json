@@ -12,5 +12,5 @@
         1,
         1
     ],
-    "url": "http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=_START_T07:00-0000&version=1"
+    "url": "http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_CURR_HUB_LMP&startdatetime=_START_T07:00-0000&enddatetime=_END_T07:00-0000&version=1"
 }

@@ -1,1 +1,0 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-curr-hub-lmp/sql/N_N_PRC_CURR_HUB_LMP_N.sql
